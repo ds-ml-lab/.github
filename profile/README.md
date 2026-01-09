@@ -1,18 +1,18 @@
 # DS-ML-Lab
+### Applied Data Science & Machine Learning Portfolio
 
-Welcome to **DS-ML-Lab** — a personal lab of Data Science & Machine Learning projects and studies.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-Here you'll find:  
-- Real-world data analysis notebooks  
-- Machine learning models from courses and personal experiments  
-- Ongoing studies and exploratory projects  
+## About
+**DS-ML-Lab** serves as a centralized repository for applied data science projects, machine learning experiments and statistical research. The primary objective is to demonstrate end-to-end capabilities, from raw data extraction to model deployment.
 
-This organization reflects my journey in data science — from beginner experiments to advanced learning.
+This organization reflects my journey in data science, from beginner experiments to advanced learning.
 
 Stay tuned for more!
 
 ---
 
-Connect with me: [LinkedIn](https://www.linkedin.com/in/phenriquels/)
+[**Connect on LinkedIn**](https://www.linkedin.com/in/phenriquels/)
